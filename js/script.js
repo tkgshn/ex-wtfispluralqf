@@ -411,8 +411,8 @@ function showAgentInfo(agentId) {
 
 }
 window.onload = function() {
+  showSlider('argent0');//when user open the page, forcus on selecting argent0
   initLineChart();
-  showSlider('argent0'); //when user open the page, forcus on selecting argent0
 };
 
 
