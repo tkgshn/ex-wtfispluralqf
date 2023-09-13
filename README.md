@@ -1,5 +1,5 @@
 # WTF is Plural QF
-![Alt text](image.png)
+![Alt text](/assets/image.png)
 
 https://tkgshn.github.io/wtfispluralqf/
 
