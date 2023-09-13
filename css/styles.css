@@ -109,3 +109,26 @@ img[src$="assets/nomalqf.png"]{
      flex-direction: column;
      /* margin: 10px; */
 }
+
+/* footer */
+.footer-divider {
+    border: 0;
+    height: 1px;
+    background: #333;
+  }
+  
+  .footer-content {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .footer-content a {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  .footer-content p {
+    margin: 0;
+    padding: 5px;
+  }
+  
