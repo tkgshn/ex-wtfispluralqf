@@ -412,7 +412,7 @@ function showAgentInfo(agentId) {
 }
 window.onload = function() {
   initLineChart();
-  // Other initialization code
+  showSlider('argent0'); //when user open the page, forcus on selecting argent0
 };
 
 
